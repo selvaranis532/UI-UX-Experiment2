@@ -16,7 +16,6 @@ Step 4: Integrate interaction and usability features such as hover effects, tran
 Step 5: Design a brand logo using Canva that represents the product identity with suitable colors, fonts, and scalable design, and embed it into the UI layouts.
 
 Step 6: Review the complete design by checking alignment, spacing, contrast, and visual flow, then export the final layouts and document the design process.
-## Output:
 
 ## OUTPUT :
 [ui ux(2).pdf](https://github.com/user-attachments/files/28021716/ui.ux.2.pdf)
