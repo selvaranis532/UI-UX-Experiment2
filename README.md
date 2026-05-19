@@ -18,23 +18,8 @@ Step 5: Design a brand logo using Canva that represents the product identity wit
 Step 6: Review the complete design by checking alignment, spacing, contrast, and visual flow, then export the final layouts and document the design process.
 ## Output:
 
-## LOGO:
-
-<img width="1181" height="1181" alt="1" src="https://github.com/user-attachments/assets/5180fc4e-8090-4118-b545-f451aab812da" />
-
-
-## MOBILE LAYOUT :
-
-<img width="331" height="724" alt="image" src="https://github.com/user-attachments/assets/f2edbc11-0564-4d19-bc8b-d8573dfef23f" />
-
-
-<img width="335" height="725" alt="image" src="https://github.com/user-attachments/assets/70c2b38a-bac8-420b-84ac-b8751c4ea5a1" />
-
-
-## WEB LAYOUT
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62c33b54-21a4-45d4-a6c5-23c310f326c3" />
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ba152ce-122d-4117-b742-2ebc08a2e434" />
+## OUTPUT :
+[ui ux(2).pdf](https://github.com/user-attachments/files/28021716/ui.ux.2.pdf)
 
 
 
